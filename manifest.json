@@ -55,7 +55,7 @@
             "id": "TaskPaneRuntime",
             "type": "general",
             "code": {
-              "page": "https://localhost:3000/taskpane.html"
+              "page": "https://tikamchand-beeyond.github.io/excel-testing-tool/taskpane.html"
             },
             "lifetime": "short",
             "actions": [
@@ -71,8 +71,8 @@
             "id": "CommandsRuntime",
             "type": "general",
             "code": {
-              "page": "https://localhost:3000/commands.html",
-              "script": "https://localhost:3000/commands.js"
+              "page": "https://tikamchand-beeyond.github.io/excel-testing-tool/commands.html",
+              "script": "https://tikamchand-beeyond.github.io/excel-testing-tool/commands.js"
             },
             "lifetime": "short",
             "actions": [
@@ -96,9 +96,9 @@
                     "id": "msgComposeGroup",
                     "label": "Contoso Add-in",
                     "icons": [
-                      { "size": 16, "url": "https://localhost:3000/assets/icon-16.png" },
-                      { "size": 32, "url": "https://localhost:3000/assets/icon-32.png" },
-                      { "size": 80, "url": "https://localhost:3000/assets/icon-80.png" }
+                      { "size": 16, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-16.png" },
+                      { "size": 32, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-32.png" },
+                      { "size": 80, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-80.png" }
                     ],
                     "controls": [
                       {
@@ -106,9 +106,9 @@
                         "type": "button",
                         "label": "Show Task Pane",
                         "icons": [
-                          { "size": 16, "url": "https://localhost:3000/assets/icon-16.png" },
-                          { "size": 32, "url": "https://localhost:3000/assets/icon-32.png" },
-                          { "size": 80, "url": "https://localhost:3000/assets/icon-80.png" }
+                          { "size": 16, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-16.png" },
+                          { "size": 32, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-32.png" },
+                          { "size": 80, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-80.png" }
                         ],
                         "supertip": {
                           "title": "Show Task Pane",
@@ -121,9 +121,9 @@
                         "type": "button",
                         "label": "Perform an action",
                         "icons": [
-                          { "size": 16, "url": "https://localhost:3000/assets/icon-16.png" },
-                          { "size": 32, "url": "https://localhost:3000/assets/icon-32.png" },
-                          { "size": 80, "url": "https://localhost:3000/assets/icon-80.png" }
+                          { "size": 16, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-16.png" },
+                          { "size": 32, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-32.png" },
+                          { "size": 80, "url": "https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-80.png" }
                         ],
                         "supertip": {
                           "title": "Perform an action",
