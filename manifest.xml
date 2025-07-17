@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://tikamchand-beeyond.github.io/excel-testing-tool/assets/icon-64.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://tikamchand-beeyond.github.io/excel-testing-tool/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>

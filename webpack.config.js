@@ -6,7 +6,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const webpack = require("webpack");
 
 const urlDev = "https://tikamchand-beeyond.github.io/excel-testing-tool/";
-const urlProd = "https://www.contoso.com/"; // CHANGE THIS TO YOUR PRODUCTION DEPLOYMENT LOCATION
+const urlProd = "https://tikamchand-beeyond.github.io/excel-testing-tool/"; // CHANGE THIS TO YOUR PRODUCTION DEPLOYMENT LOCATION
 
 async function getHttpsOptions() {
   const httpsOptions = await devCerts.getHttpsServerOptions();
